@@ -1,0 +1,19 @@
+{
+  "extends": "./node_modules/expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": ".",  // Ensures proper relative path resolution
+    "paths": {
+      "@/*": ["./*"]  // Optional: Enables aliasing for easier imports
+    },
+    "esModuleInterop": true,
+    "skipLibCheck": true,  // Skips type checking of declaration files (optional)
+    "forceConsistentCasingInFileNames": true  // Ensures file names are consistent
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+  ]
+}
