@@ -67,3 +67,9 @@ This project is currently under active development. Some features may be incompl
 ## License
 This project is licensed under the MIT License.
 
+![image](https://github.com/user-attachments/assets/8309069c-31b6-4fc4-81a0-f4091ba95a18)
+
+![image](https://github.com/user-attachments/assets/2caf9d31-5163-4066-98ef-ad8d72ec9705)
+
+
+
